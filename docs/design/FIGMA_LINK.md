@@ -19,11 +19,3 @@
 - **Экраны (по спецификации `SCREENS.md`, добавить вручную или продолжить через MCP):**
   - Dashboard, Quiz Editor, Host Lobby, Live Host, Join, Live Player, Profile
 
-## Miro
-
-MCP-интеграция с Miro в текущем окружении **не подключена**. Для user flow и архитектуры использован **FigJam** — функциональный эквивалент для этапа проектирования.
-
-## Как продолжить
-
-1. Откройте [QuizLive UI](https://www.figma.com/design/FHmFlk5l3thkliNNvimv4v/QuizLive-UI) и доработайте оставшиеся экраны по `SCREENS.md`
-2. Или запросите продолжение генерации макетов через Cursor (Figma MCP) после сброса лимита Starter-плана
