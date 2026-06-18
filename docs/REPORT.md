@@ -166,7 +166,6 @@
 | **Макеты UI (Figma Design)** | https://www.figma.com/design/FHmFlk5l3thkliNNvimv4v/QuizLive-UI |
 | **User flow и состояния сессии (FigJam)** | https://www.figma.com/board/id49ARvuNaTOilBog0iYFu |
 | **ER-диаграмма БД (FigJam)** | https://www.figma.com/board/jdkbly41BN9jWkUvlOGAsV |
-| **Репозиторий с кодовой базой** | _https://github.com/&lt;username&gt;/quiz-platform_ — указать после публикации на GitHub |
 | **Рабочий продукт (локально)** | http://localhost:3000 — запуск: `npm install && npm run db:migrate && npm run db:seed && npm run dev` |
 | **Рабочий продукт (деплой)** | _опционально: URL после размещения на Vercel/Railway_ |
 
