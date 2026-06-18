@@ -59,7 +59,7 @@ server.ts        — custom server (Next + WebSocket)
 
 ## Документация для сдачи
 
-См. **[docs/REPORT.md](docs/REPORT.md)** — пояснительная записка (до 5 стр.).
+См. **[docs/REPORT.md](docs/REPORT.md)** — пояснительная записка.
 
 ## Ссылки (для пояснительной записки)
 
