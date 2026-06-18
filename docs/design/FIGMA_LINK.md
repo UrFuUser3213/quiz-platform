@@ -4,8 +4,6 @@
 |--------|--------|
 | **UI-макеты (Figma Design)** | https://www.figma.com/design/FHmFlk5l3thkliNNvimv4v/QuizLive-UI |
 | **User flow + состояния сессии (FigJam)** | https://www.figma.com/board/id49ARvuNaTOilBog0iYFu |
-| **ER-диаграмма БД (FigJam)** | https://www.figma.com/board/jdkbly41BN9jWkUvlOGAsV |
-| **UI Mockups (черновик, Figma)** | https://www.figma.com/design/M0slwddPfPTONEvR944Mso |
 
 ## Что создано
 
